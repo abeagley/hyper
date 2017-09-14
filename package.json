@@ -1,5 +1,7 @@
 {
   "repository": "zeit/hyper",
+  "name": "hyper-terminal",
+  "private": true,
   "scripts": {
     "start": "echo 'please run `yarn run dev` in one tab and then `yarn run app` in another one'",
     "app": "electron app",
